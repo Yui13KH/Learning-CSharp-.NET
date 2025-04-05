@@ -1,0 +1,10 @@
+Y:\GitHub Repos\Learning-CSharp-.NET\FirstWinFormsApp\bin\Debug\FirstWinFormsApp.exe.config
+Y:\GitHub Repos\Learning-CSharp-.NET\FirstWinFormsApp\bin\Debug\FirstWinFormsApp.exe
+Y:\GitHub Repos\Learning-CSharp-.NET\FirstWinFormsApp\bin\Debug\FirstWinFormsApp.pdb
+Y:\GitHub Repos\Learning-CSharp-.NET\FirstWinFormsApp\obj\Debug\FirstWinFormsApp.csproj.AssemblyReference.cache
+Y:\GitHub Repos\Learning-CSharp-.NET\FirstWinFormsApp\obj\Debug\FirstWinFormsApp.Properties.Resources.resources
+Y:\GitHub Repos\Learning-CSharp-.NET\FirstWinFormsApp\obj\Debug\FirstWinFormsApp.csproj.GenerateResource.cache
+Y:\GitHub Repos\Learning-CSharp-.NET\FirstWinFormsApp\obj\Debug\FirstWinFormsApp.csproj.CoreCompileInputs.cache
+Y:\GitHub Repos\Learning-CSharp-.NET\FirstWinFormsApp\obj\Debug\FirstWinFormsApp.exe
+Y:\GitHub Repos\Learning-CSharp-.NET\FirstWinFormsApp\obj\Debug\FirstWinFormsApp.pdb
+Y:\GitHub Repos\Learning-CSharp-.NET\FirstWinFormsApp\obj\Debug\FirstWinFormsApp.Calculator.resources

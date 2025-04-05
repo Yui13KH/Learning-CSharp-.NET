@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\GitHub Repos\\Learning-CSharp-.NET\\FirstWinFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C21EDBC4-7096-4A29-A3DA-2DB7CE77ACBC}|FirstWinFormsApp.csproj|y:\\github repos\\learning-csharp-.net\\firstwinformsapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C21EDBC4-7096-4A29-A3DA-2DB7CE77ACBC}|FirstWinFormsApp.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|FirstWinFormsApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C21EDBC4-7096-4A29-A3DA-2DB7CE77ACBC}|FirstWinFormsApp.csproj|y:\\github repos\\learning-csharp-.net\\firstwinformsapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C21EDBC4-7096-4A29-A3DA-2DB7CE77ACBC}|FirstWinFormsApp.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstWinFormsApp",
+              "DocumentMoniker": "Y:\\GitHub Repos\\Learning-CSharp-.NET\\FirstWinFormsApp\\FirstWinFormsApp.csproj",
+              "RelativeDocumentMoniker": "FirstWinFormsApp.csproj",
+              "ToolTip": "Y:\\GitHub Repos\\Learning-CSharp-.NET\\FirstWinFormsApp\\FirstWinFormsApp.csproj",
+              "RelativeToolTip": "FirstWinFormsApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-05T02:50:19.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "Y:\\GitHub Repos\\Learning-CSharp-.NET\\FirstWinFormsApp\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "Y:\\GitHub Repos\\Learning-CSharp-.NET\\FirstWinFormsApp\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAD4vz0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:30:17.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs [Design]",
+              "DocumentMoniker": "Y:\\GitHub Repos\\Learning-CSharp-.NET\\FirstWinFormsApp\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "Y:\\GitHub Repos\\Learning-CSharp-.NET\\FirstWinFormsApp\\Calculator.cs [Design]",
+              "RelativeToolTip": "Calculator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:28:25.532Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
