@@ -1,0 +1,10 @@
+Y:\GitHub Repos\Learning-CSharp-.NET\tests\bin\Debug\tests.exe.config
+Y:\GitHub Repos\Learning-CSharp-.NET\tests\bin\Debug\tests.exe
+Y:\GitHub Repos\Learning-CSharp-.NET\tests\bin\Debug\tests.pdb
+Y:\GitHub Repos\Learning-CSharp-.NET\tests\obj\Debug\tests.csproj.AssemblyReference.cache
+Y:\GitHub Repos\Learning-CSharp-.NET\tests\obj\Debug\tests.Form1.resources
+Y:\GitHub Repos\Learning-CSharp-.NET\tests\obj\Debug\tests.Properties.Resources.resources
+Y:\GitHub Repos\Learning-CSharp-.NET\tests\obj\Debug\tests.csproj.GenerateResource.cache
+Y:\GitHub Repos\Learning-CSharp-.NET\tests\obj\Debug\tests.csproj.CoreCompileInputs.cache
+Y:\GitHub Repos\Learning-CSharp-.NET\tests\obj\Debug\tests.exe
+Y:\GitHub Repos\Learning-CSharp-.NET\tests\obj\Debug\tests.pdb
